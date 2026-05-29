@@ -1,0 +1,6 @@
+{
+  "name": "ZXPedia",
+  "description": "Aplikasi PPOB untuk pulsa, data, dan topup game",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
